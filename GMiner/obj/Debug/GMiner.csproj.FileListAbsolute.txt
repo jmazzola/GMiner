@@ -1,0 +1,9 @@
+D:\Dropbox\GameMaker Hacking\GMine\GMiner\GMiner\bin\Debug\GMiner.exe.config
+D:\Dropbox\GameMaker Hacking\GMine\GMiner\GMiner\bin\Debug\GMiner.exe
+D:\Dropbox\GameMaker Hacking\GMine\GMiner\GMiner\bin\Debug\GMiner.pdb
+D:\Dropbox\GameMaker Hacking\GMine\GMiner\GMiner\obj\Debug\GMiner.csprojResolveAssemblyReference.cache
+D:\Dropbox\GameMaker Hacking\GMine\GMiner\GMiner\obj\Debug\GMiner.Form1.resources
+D:\Dropbox\GameMaker Hacking\GMine\GMiner\GMiner\obj\Debug\GMiner.Properties.Resources.resources
+D:\Dropbox\GameMaker Hacking\GMine\GMiner\GMiner\obj\Debug\GMiner.csproj.GenerateResource.Cache
+D:\Dropbox\GameMaker Hacking\GMine\GMiner\GMiner\obj\Debug\GMiner.exe
+D:\Dropbox\GameMaker Hacking\GMine\GMiner\GMiner\obj\Debug\GMiner.pdb
